@@ -3,7 +3,9 @@ import React from 'react'
 const SearchBox = ({ onSearchChange }) => {
   return (
     <div className='p2'>
-      <input className='pa3 ba b--green bg-lightest-blue'
+      <input
+        aria-label='Search Robots'
+        className='pa3 ba b--green bg-lightest-blue'
         type='search'
         placeholder='Search Robots'
         onChange={onSearchChange} />
@@ -12,3 +14,5 @@ const SearchBox = ({ onSearchChange }) => {
 }
 
 export default SearchBox
+
+//use for screen readers aria-label='Search Robots'
