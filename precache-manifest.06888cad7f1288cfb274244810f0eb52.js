@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "16954bafa5a35021ff0971c076572861",
+    "revision": "dbc1f21d721462b307d17191380bbf07",
     "url": "/monster-robot-pwa/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/monster-robot-pwa/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "c4b50f8b54305ca17c60",
-    "url": "/monster-robot-pwa/static/css/main.3a28fbd2.chunk.css"
+    "revision": "0bccf0abfc593e956ec6",
+    "url": "/monster-robot-pwa/static/css/main.546ab936.chunk.css"
   },
   {
     "revision": "979782a07538b8e674ad",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/monster-robot-pwa/static/js/2.14a9cd0b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c4b50f8b54305ca17c60",
+    "revision": "0bccf0abfc593e956ec6",
     "url": "/monster-robot-pwa/static/js/main.1f23be6d.chunk.js"
   },
   {
